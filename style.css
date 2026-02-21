@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(57, 177, 177);
+    font-family: 'lucida console', sans-serif;
+    text-align: center;
+    
+}
+
+
+ul {
+display: block;
+border: 5px, double, black;
+list-style-type: none;
+padding: 0px 0px 15px 0px;
+}
+
+
+h1 {
+    font-size: 45px;
+}
+
+
+h3 {
+    color: black;
+    font-size: 25px;
+}
+
+
+a {
+    text-decoration: none;
+    display: inline-flex;
+}
+
+img {
+    border: 4px, double, black;
+    padding: 6px; 
+}
