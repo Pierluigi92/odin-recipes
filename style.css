@@ -1,38 +1,33 @@
 body {
     background-color: rgb(57, 177, 177);
-
     text-align: center;
-    
 }
-
 
 ul {
-display: block;
-border: 5px, double, black;
-list-style-type: none;
-padding: 0px 0px 15px 0px;
+    display: block;
+    border: 10px, double, black;
+    list-style-type: none;
+    padding: 25px 0px 25px 0px;
 }
-
 
 h1 {
     font-size: 55px;
     font-family: 'Times New Roman', Times, serif;
 }
 
-
 h3 {
     color: black;
     font-size: 25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 13px;
 }
-
 
 a {
     text-decoration: none;
-    display: inline-flex;
 }
 
 img {
-    border: 4px, double, black;
+    border: 6px, double, black;
     padding: 6px; 
+    margin: 0px 0px 35px 0px;
 }
